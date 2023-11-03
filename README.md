@@ -1,4 +1,4 @@
-# Ching Keziah's Portfolio
+# Ching-Kez's Portfolio
 
 ## Introduction
 Welcome to my portfolio! My name is Ching Keziah, and I am a junior frontend developer and graphics designer. Despite my background in Law, I have found my passion in the world of technology and design. This README file serves as a guide to navigate my portfolio and learn more about my skills, projects, and experiences.
