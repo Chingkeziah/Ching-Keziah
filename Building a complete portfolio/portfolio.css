@@ -1,0 +1,39 @@
+/*to take out the bullets from the ul*/
+ul {
+    list-style-type: none;
+}
+li {
+    /*to display li elements horizontally*/
+    display: inline-block;
+}
+a {
+    /*to take out the line from the link*/
+    text-decoration: none;
+    color:black;
+}
+.port {
+    float: left;
+    /*to give space to the text from the margin top and left*/
+    padding-top: 100px;
+    padding-left: 30px;
+   
+
+}
+.pic {
+    float: right;
+}
+.bio {
+    float: left;
+}
+body {
+    background-color: rgb(238, 140, 156);
+    /* to give space at the top and right between the page and the box*/
+    padding-top: 50px;
+    padding-right: 50px;
+}
+#main {
+    background-color: rgb(53, 47, 47);
+    /*to place place a container side by side another*/
+    float: right;
+    width: 900px;
+}
