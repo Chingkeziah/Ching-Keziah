@@ -31,8 +31,8 @@ For a more detailed overview of my projects, please visit my portfolio website.
 ## Contact
 I would be delighted to connect with you. You can reach me through the following channels:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Ching Keziah](https://www.linkedin.com/in/your-linkedin-profile)
+- **Email:** [your-email@example.com](chingkeziah@gmail.com)
+- **LinkedIn:** [Ching Keziah](https://www.linkedin.com/in/ching-keziah-707150218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **Portfolio Website:** [www.your-portfolio-website.com](https://www.your-portfolio-website.com)
 
 Feel free to reach out for inquiries, collaborations, or just to say hello!
