@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(214, 208, 208);
+}
+header {
+    height: 80px;
+    background-color: rgb(189, 184, 184);
+    margin: -50px 0 0 -10px;
+    /* min-width: 1368px; */
+}
+.initials>* {
+    font-size: 20px;
+    padding: 30px 0 0 50px;
+}
+h6>.name {
+    border: 1px solid black;
+    color: rgb(189, 184, 184);
+    background-color: black;
+    border-radius: 50%;
+    padding: 5px;  
+ }
+
+
+.links > *{
+    display: flex;
+    flex-direction: row;
+    justify-content:end;  
+}
+ul, li{
+    list-style-type: none;
+    padding: 0 30px 0 30px;
+    font-size: 20px;
+    margin-top: -35px;
+}
+li>a {
+    text-decoration: none;
+    color: black;
+    
+}
+li>a:hover{
+    background-color: black;
+    color: white;
+    /* added a padding to increase the size of the background color of the hover so it looks somewhat like a transition */
+    padding: 10px; 
+}
+.picture>img {
+    margin: 0 -270px 0 0;
+    height: 400px;
+    width: 350px;
+    float: right;
+}
+.border {
+    height: 401px;
+    width: 300px;
+    border: 7px solid black;
+    float: right;
+    z-index: -1;
+    margin: 30px 60px 0 0;
+}
+
+
+
+
+@media screen {
+    
+}
