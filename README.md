@@ -4,10 +4,12 @@
 Welcome to my portfolio! My name is Ching Keziah, and I am a junior frontend developer and graphics designer. Despite my background in Law, I have found my passion in the world of technology and design. This README file serves as a guide to navigate my portfolio and learn more about my skills, projects, and experiences.
 
 ## Table of Contents
-1. [About Me](#about-me)
-2. [Skills](#skills)
-3. [Projects](#projects)
-4. [Contact](#contact)
+1. [About Me](I am a junior Frontend Website Developer, with knowledge in HTML, CSS and JavaScript. 
+        I am dedicated and open minded. I get accross to people and adjust to changes with ease. I have a creative mind and i'm always up for new challenges and opportunities to showcase my skills. Nothwithstanding, i am open to learning
+        and excel under pressure. I am also a collaborative team player. )
+2. [Skills](version control, html, css, javascript, tailwind, bootstrap)
+3. [Projects](E-commerce website, A basic calculator, A landing page, A music page)
+4. [Contact](+237681758996)
 
 ## About Me
 As mentioned earlier, my academic background is in Law. However, I have always been intrigued by the creative aspects of technology and design. Determined to pursue my passion, I embarked on a journey to become a frontend developer and graphics designer. Through self-study, online courses, and practical projects, I have acquired the necessary skills to excel in these fields.
@@ -22,9 +24,9 @@ As mentioned earlier, my academic background is in Law. However, I have always b
 ## Projects
 Here are some notable projects that showcase my skills and expertise:
 
-1. **Project A:** Description of the project and your role in it.
-2. **Project B:** Description of the project and your role in it.
-3. **Project C:** Description of the project and your role in it.
+1. **Project A:** A website for TechTrailblazers. i was in charge of the landing page which i exceled in producing.
+2. **Project B:** Clonning Deezer's app. I was incharge of building it's music page
+3. **Project C:** A quiz app. I added more functionality to it
 
 For a more detailed overview of my projects, please visit my portfolio website.
 
@@ -40,4 +42,3 @@ Feel free to reach out for inquiries, collaborations, or just to say hello!
 Thank you for visiting my portfolio!
 
 ---
-*Note: This README file is a template and should be customized according to your specific portfolio content and preferences.*
